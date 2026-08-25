@@ -1,6 +1,6 @@
 # Smart Incident Risk Predictor & Alert Management System
 
-Monorepo scaffold for a beginner-friendly FastAPI + React application that ingests ticket CSV/XLSX files, predicts ticket risk with a Random Forest, displays a Material UI dashboard, and sends SMTP alerts for high-risk tickets.
+Monorepo scaffold for a beginner-friendly FastAPI + React application that ingests ticket CSV/XLSX files, predicts ticket risk with a Random Forest, displays a Material UI dashboard, and sends SMTP alerts for high-risk tickets and data.
 
 ## Quick Start
 
